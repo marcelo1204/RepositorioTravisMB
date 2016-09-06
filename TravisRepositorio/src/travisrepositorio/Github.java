@@ -13,4 +13,12 @@ public class Github {
     
     public void suma(){
     }
+    
+    public void restar(){
+        
+    }
+    
+    public void multiplicar(){
+        
+    }
 }
