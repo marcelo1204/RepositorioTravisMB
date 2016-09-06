@@ -11,5 +11,6 @@ package travisrepositorio;
  */
 public class Github {
     
-    
+    public void suma(){
+    }
 }
